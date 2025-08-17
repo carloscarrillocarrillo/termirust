@@ -1,0 +1,133 @@
+[2025-08-17 14:08:29.293] [INFO] [matrix_terminal::infrastructure::logging] === APLICACIÓN TERMIRUST INICIADA ===
+[2025-08-17 14:08:29.294] [INFO] [matrix_terminal::infrastructure::logging] Versión: 0.1.0
+[2025-08-17 14:08:29.294] [INFO] [matrix_terminal::infrastructure::logging] Timestamp de inicio: 2025-08-17 14:08:29
+[2025-08-17 14:08:29.295] [INFO] [matrix_terminal::presentation::gui_terminal] Aplicación MatrixTerminalApp inicializada correctamente
+[2025-08-17 14:08:29.295] [DEBUG] [eframe] Using the glow renderer
+[2025-08-17 14:08:29.300] [DEBUG] [eframe::native::glow_integration] Event::Resumed
+[2025-08-17 14:08:29.301] [DEBUG] [eframe::native::glow_integration] trying to create glutin Display with config: ConfigTemplateBuilder { template: ConfigTemplate { color_buffer_type: Rgb { r_size: 8, g_size: 8, b_size: 8 }, alpha_size: 8, depth_size: 0, stencil_size: 0, num_samples: None, min_swap_interval: None, max_swap_interval: None, config_surface_types: ConfigSurfaceTypes(WINDOW), api: None, transparency: false, single_buffering: false, stereoscopy: None, float_pixels: false, max_pbuffer_width: None, hardware_accelerated: None, max_pbuffer_height: None, native_window: None } }
+[2025-08-17 14:08:29.510] [DEBUG] [eframe::native::glow_integration] using the first config from config picker closure. config: Wgl(Config { inner: Config { hdc: 33624446, pixel_format_index: 14 } })
+[2025-08-17 14:08:29.511] [DEBUG] [eframe::native::glow_integration] successfully created GL Display with version: WGL and supported features: DisplayFeatures(CONTEXT_ROBUSTNESS | CONTEXT_NO_ERROR | FLOAT_PIXEL_FORMAT | SWAP_CONTROL | CONTEXT_RELEASE_BEHAVIOR | CREATE_ES_CONTEXT | MULTISAMPLING_PIXEL_FORMATS | SRGB_FRAMEBUFFERS)
+[2025-08-17 14:08:29.511] [DEBUG] [eframe::native::glow_integration] creating gl context using raw window handle: Some(Win32(Win32WindowHandle { hwnd: 0xf0a58, hinstance: 0x7ff69da10000 }))
+[2025-08-17 14:08:29.512] [DEBUG] [eframe::native::glow_integration] Initializing egui_winit for viewport "FFFF"
+[2025-08-17 14:08:29.512] [DEBUG] [eframe::native::glow_integration] Creating a gl_surface for viewport "FFFF"
+[2025-08-17 14:08:29.520] [DEBUG] [egui_glow::painter] 
+opengl version: 3.3.0 NVIDIA 560.94
+opengl renderer: NVIDIA GeForce GTX 1650/PCIe/SSE2
+opengl vendor: NVIDIA Corporation
+[2025-08-17 14:08:29.520] [DEBUG] [egui_glow::shader_version] Shader version: Gl140 ("3.30 NVIDIA via Cg compiler").
+[2025-08-17 14:08:29.520] [DEBUG] [egui_glow::painter] Shader header: "#version 140\n".
+[2025-08-17 14:08:29.521] [DEBUG] [egui_glow::painter] SRGB texture Support: true
+[2025-08-17 14:08:29.521] [DEBUG] [egui_glow::painter] SRGB framebuffer Support: true
+[2025-08-17 14:08:29.529] [DEBUG] [egui_glow::vao] GL version: "3.3.0 NVIDIA 560.94".
+[2025-08-17 14:08:30.528] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:08:30.935] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:32.589] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:34.242] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:35.327] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:08:35.901] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 19
+[2025-08-17 14:08:37.575] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:39.265] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:40.947] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:42.626] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:44.325] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:45.995] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:47.670] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:49.384] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:49.851] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:08:49.981] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:08:51.129] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:52.820] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:54.493] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 19
+[2025-08-17 14:08:56.159] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:57.822] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:08:59.492] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 19
+[2025-08-17 14:09:01.161] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:02.827] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:04.497] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:06.157] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 19
+[2025-08-17 14:09:07.826] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:09.492] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:11.159] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:12.825] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:14.492] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:16.167] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:17.840] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:19.510] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:21.179] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:22.857] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:23.709] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:23.760] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:23.815] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:23.869] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:23.923] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:24.029] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:24.085] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:24.192] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:24.394] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:24.523] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:24.943] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:24.993] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:25.098] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:25.150] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:25.254] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:25.256] [INFO] [matrix_terminal::infrastructure::logging] Comando ejecutado exitosamente: 'ls' - Salida: 📁 Directorio: D:\termirust
+
+📄 build.rs  📄 Cargo.lock  📄 Cargo.toml  📄 COMMAND_HISTORY_DISPLAY.md
+📄 CURSOR_POSITIONING_FIX.md  📄 EJECUTAR.bat  📄 INFO_PROYECTO.md  📄 INSTALAR.bat
+📄 LOGGING_SYSTEM.md  📁 logs  📄 LS_COMMAND_DOCUMENTATION.md  📄 manifest.xml
+📄 MATRIX_INPUT_OPTIMIZATION.md  📄 NETWORK_INDICATORS.md  📄 README.md
+📄 README_EJECUTABLE.md  📁 src  📄 SYSTEM_INDICATORS.md  📁 target
+📄 test_logging.rs  📄 TEXT_CAPTURE_FIX.md
+[2025-08-17 14:09:25.373] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:25.965] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:26.017] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:26.088] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:26.169] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:26.196] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:26.457] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:27.859] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:29.526] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:30.012] [DEBUG] [matrix_terminal::infrastructure::logging] Estadísticas del sistema - Memoria: 48.1%, CPU: 65.4%, Red: 770MB recibidos, 270MB transmitidos
+[2025-08-17 14:09:31.192] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:32.866] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:34.541] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:35.950] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:36.007] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:36.062] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:36.219] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:36.275] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:36.328] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:36.379] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:36.487] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:36.594] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:37.886] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:38.835] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:38.891] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:38.999] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:39.108] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:39.213] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:39.272] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:39.324] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:39.426] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:39.529] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:39.529] [INFO] [matrix_terminal::infrastructure::logging] Comando ejecutado exitosamente: 'exit' - Salida: EXIT
+[2025-08-17 14:09:39.551] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:39.634] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.258] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.318] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.378] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.434] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.499] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 2 eventos de entrada
+[2025-08-17 14:09:40.579] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.647] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.714] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.788] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:40.844] [DEBUG] [matrix_terminal::presentation::gui_terminal] Procesando 1 eventos de entrada
+[2025-08-17 14:09:41.203] [DEBUG] [matrix_terminal::infrastructure::logging] Efectos Matrix actualizados - Gotas activas: 20
+[2025-08-17 14:09:41.287] [DEBUG] [eframe::native::glow_integration] Received WindowEvent::CloseRequested for viewport Some("FFFF")
+[2025-08-17 14:09:41.339] [DEBUG] [eframe::native::epi_integration] Closing root viewport (ViewportCommand::CancelClose was not sent)
+[2025-08-17 14:09:41.340] [DEBUG] [eframe::native::run] Asking to exit event loop…
+[2025-08-17 14:09:41.340] [INFO] [matrix_terminal::infrastructure::logging] === APLICACIÓN TERMIRUST CERRADA ===
+[2025-08-17 14:09:41.341] [INFO] [matrix_terminal::infrastructure::logging] Timestamp de cierre: 2025-08-17 14:09:41
+[2025-08-17 14:09:41.343] [DEBUG] [eframe::native::run] Received Event::LoopExiting - saving app state…
+[2025-08-17 14:09:41.343] [DEBUG] [eframe::native::run] eframe window closed
